@@ -5,7 +5,7 @@
 int tade[2][2];
 
 void 
-out2(sfd)
+out1(sfd)
 int sfd;
 {
 	printf("(%d)\n",sfd);
@@ -32,6 +32,6 @@ int main()
 		}
 
 	//bla(tade);
-	out2(1);
+	out1(1);
 	return (-1);
 }
