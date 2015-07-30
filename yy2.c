@@ -4,6 +4,8 @@
 
 int tade[2][2];
 
+/*test comment 2*/
+
 void 
 out1(sfd)
 int sfd;
